@@ -68,4 +68,4 @@ MIT License - do whatever you want with it.
 
 ---
 
-Made this out of frustration with audio drivers. Hope it helps someone else avoid the same headache. 🤷‍♂️RetryClaude does not have the ability to run the code it generates yet.
+Made this out of frustration with audio drivers. Hope it helps someone else avoid the same headache.
