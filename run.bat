@@ -1,4 +1,6 @@
 @echo off
+cd /d "%~dp0"
+
 echo Starting Realtek Driver Cleaner...
 echo.
 echo NOTE: This tool requires Administrator privileges.
