@@ -23,12 +23,15 @@ This tool nukes all the Realtek drivers from your system so you can start fresh 
 
 ## How to Use
 
-1. Download the JAR file from [Releases](../../releases)
-2. **Right-click** it and select **"Run as administrator"** (this is important!)
-3. Click "Scan for Drivers" to see what Realtek stuff is lurking
-4. Click "Delete All Drivers" to nuke them
-5. Let it help you find your motherboard's actual audio drivers
-6. Restart and install the proper drivers
+1. Download both `RealtekCleanerGUI.jar` and `run.bat` from [Releases](../../releases)
+2. Put them in the same folder
+3. **Right-click `run.bat`** and select **"Run as administrator"**
+4. Click "Scan for Drivers" to see what Realtek stuff is lurking
+5. Click "Delete All Drivers" to nuke them
+6. Let it help you find your motherboard's actual audio drivers
+7. Restart and install the proper drivers
+
+**Note:** You must use `run.bat` to run as administrator. JAR files can't be run as admin directly.
 
 ## Requirements
 
